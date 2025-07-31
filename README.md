@@ -119,6 +119,8 @@ Me chamo Guilherme Carvalho, sou desenvolvedor frontend com foco em UX e fundado
         src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Gui-Carvalho&theme=dark&layout=compact&custom_title=Tecnologias'
     />
 </div>
+<br/>
+<br/>
 
 ---
 
