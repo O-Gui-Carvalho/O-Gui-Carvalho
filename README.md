@@ -6,7 +6,7 @@ Me chamo Guilherme Carvalho, sou desenvolvedor frontend com foco em UX e fundado
 
 ---
 
-### 🤖 Linguagens
+### 🤖 Linguagens e técnologias
 
 <img 
     align='left' 
